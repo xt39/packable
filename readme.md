@@ -8,6 +8,6 @@ plus it is written 100% JavaScript!
 ### Install
 There are 2 ways to install this software
 1. Go to the following link: https://github.com/xt39/packable/releases
-2. In your Git Bash terminal type in the following: ```git clone https://github.com/xt39/packable```
+2. In your Git Bash terminal type in the following:```git clone https://github.com/xt39/packable```
 ### Credits
 - xt39 &dash; Creator and Maintainer
